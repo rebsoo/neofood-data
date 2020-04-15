@@ -1,0 +1,43 @@
+{ 
+  "food":[
+    { 
+    "id": 1, 
+    "title": "yurble jelly pops",
+    "description": "chewy jelly lollypops shaped just like yurble heads.",
+    "price": "5,750 NP",
+    "image_link": "https://i.imgur.com/hcVdksQ.png"
+    },
+    
+    { 
+    "id": 2, 
+    "title": "whole purplum jelly",
+    "description": "far more interesting than your average orange jelly.",
+    "price": "20 NP",
+    "image_link": "https://i.imgur.com/Auo1Jnr.png"
+    },
+    
+    { 
+    "id": 3, 
+    "title": "strawberry trifle",
+    "description": "layers of jelly, fruit, cake and custard make this a truly wonderful dessert.",
+    "price": "40 NP",
+    "image_link": "https://i.imgur.com/H6kek1J.png"
+    },
+    
+    { 
+    "id": 4, 
+    "title": "strawberry cybunny cake",
+    "description": "an interesting blend of cake and strawberry flavoured jelly.",
+    "price": "1,075 NP",
+    "image_link": "https://i.imgur.com/vqMFXMN.png"
+    },
+    
+    { 
+    "id": 5, 
+    "title": "1/3 carrot and pea omelette",
+    "description": "a strange combination, but nevertheless tasty. there doesnt seem to be much left, somebody has been munching away on it apparently.",
+    "price": "400 NP",
+    "image_link": "https://i.imgur.com/239ej4A.png"
+    }
+ ]
+}
